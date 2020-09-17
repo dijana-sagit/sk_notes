@@ -1,5 +1,7 @@
 # sk_notes
 
+![Image of todo](/public/todo.PNG)
+
 ## Project setup
 ```
 npm install
